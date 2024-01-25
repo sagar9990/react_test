@@ -1,0 +1,20 @@
+.ant-menu-item-selected {
+    background-color: transparent !important;
+  }
+
+.layout-header{
+  display: flex;
+  position: sticky;
+  z-index: 20;
+  top: 0;
+  align-items: center;
+}
+.logo-image{
+  margin-left: -10;
+  border-radius: 5px;
+}
+
+.menu-style{
+  flex: 1;
+  min-width: 0;
+}

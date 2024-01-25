@@ -1,0 +1,13 @@
+.content-one{
+    min-height: 71vh;
+    margin: 4vh;
+}
+
+.content-two{
+    display: flex;
+}
+
+.link-add-employee{
+    margin-left: auto;
+    margin-top: 30px;
+}

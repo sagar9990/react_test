@@ -1,0 +1,34 @@
+.detail-title{
+    margin: 0%;
+}
+.flex_style{
+    display: flex;
+    justify-content: space-between;
+}
+
+.input-number{
+    width: 46vh;
+}
+
+.column-style{
+    margin-left: 40vh;
+}
+
+.form-btn{
+    margin-left: 40vh;
+}
+.update-form{
+    margin: 4vh;
+}
+.update-text{
+    text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+    .form-btn{
+        margin-left: 10px;
+    }
+    .column-style{
+        margin-left: 0;
+    }
+}

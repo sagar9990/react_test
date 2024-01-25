@@ -1,0 +1,26 @@
+.view-icon-column{
+    margin-left: 2.3vh;
+    color: blue;
+}
+
+.update-icon-column{
+    margin-left: 2.3vh;
+    color: slategray;
+}
+
+.delete-icon-column{
+    margin-left: 2.3vh;
+    color: red;
+}
+
+.delete-icon{
+    color: red;
+}
+
+.update-icon{
+    color: slategray;
+}
+
+.view-icon{
+    color: blue;
+}
